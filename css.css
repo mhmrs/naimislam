@@ -1,0 +1,134 @@
+/* global font  */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+
+/* font-family: 'Work Sans', sans-serif;  */
+
+/* global css  */
+*{ margin: 0%;
+ padding: 0%;
+ box-sizing: border-box;
+
+}
+
+.container{
+margin: auto;
+width: 90%;
+
+}
+
+body{
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.global-h{ color: white;
+
+
+}
+
+.global-p{
+
+
+
+
+}
+.global-b{
+    background: transparent ;
+    color: white;
+    padding: 10px 4pc;
+    border: 2px solid;
+    border-radius:  10px; 
+
+
+
+}
+/* header part  */
+
+#header{
+    width: 100%;
+
+float: left;
+background: url(img/Vibo\ -\ PSD\ App\ Template.png); 
+background-size: cover;
+padding: 10px 0px;
+
+
+
+}
+
+.main-header{
+    width: 100%;
+
+    float: left;
+
+}
+.logo-part{
+
+    width: 30%;
+
+    float: left;
+    margin: 10px 0px;
+
+
+}
+
+.menu-part{
+   width: 70%;
+   float: left;
+  text-align: end;
+
+}
+
+.menu-part nav ul li {
+    display: inline-block;
+    margin: 10px 20px ;
+    
+}
+
+.menu-part nav ul li a{
+
+    
+text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-weight: 700;
+    font-size: 30px; 
+
+}
+
+.hero{
+    width: 100%;
+
+    float: left;
+    text-align: center;
+
+}
+
+.hero h1{
+
+font-size: 50px;
+}
+
+.hero p{
+
+    color: white;
+    margin: 30px;
+
+
+}
+.hero img{
+
+
+}
+.hero-buttton{
+
+    margin: 40px;
+
+
+}
+
+.hero-buttton a button{
+    margin:  10px;
+
+
+
+}
